@@ -14,7 +14,7 @@ import org.slf4j.Logger;
 import java.util.Collection;
 import java.util.Optional;
 
-@Plugin(id = "solchat", name = "SolChat", version = "1.5", url = "https://kataba.me", description = "Translate Romaji chat to Japanese", authors = {
+@Plugin(id = "solchat", name = "SolChat", version = "1.6", url = "https://kataba.me", description = "Translate Romaji chat to Japanese", authors = {
 		"katabame (https://kataba.me)" })
 public class SolChat {
 	private final ProxyServer server;

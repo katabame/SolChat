@@ -1,0 +1,7 @@
+{
+  "id": "solchat",
+  "name": "SolChat",
+  "version": "1.6",
+  "main": "me.kataba.SolChat.SolChat",
+  "authors": ["katabame"]
+}
